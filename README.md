@@ -1,24 +1,5 @@
-# README
+# MICRO-REDDIT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a very basic console backend implementation of reddit. It allows creation of users, posts and comments(no comments on commnets).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is part of [The Odin Project](https://www.theodinproject.com/lessons/ruby-on-rails-micro-reddit) curriculum.
